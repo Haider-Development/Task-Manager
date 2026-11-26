@@ -14,6 +14,7 @@ namespace TaskManager
 
             TaskManager.ShowTasks();
             TaskManager.AddTask();
+            TaskManager.DeleteTask();
         }
     }
 }
