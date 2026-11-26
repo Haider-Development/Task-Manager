@@ -13,6 +13,7 @@ namespace TaskManager
             Console.WriteLine("== Task Manager ==\n");
 
             TaskManager.ShowTasks();
+            TaskManager.AddTask();
         }
     }
 }
